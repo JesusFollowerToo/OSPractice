@@ -3,7 +3,7 @@ Practice working with Open Source Repositories
 
 ## Objective
 This repository (repo) is designed for me and others to practice working with Open Source
-Projects/Reops/Code and interacting with the other contributors as well as the owner with
+Projects/Repos/Code and interacting with the other contributors as well as the owner with
 comments and pull requests.
 
 ## Scope
